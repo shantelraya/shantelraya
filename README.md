@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @shantelraya
-- 👀 I’m interested in make creactive websites and apps
-- 🌱 I’m currently learning Javascrript, html, css, react and ruby
+- 👀 I’m interested in making creative websites and apps
+- 🌱 I’m currently learning Javascript, HTML, CSS, React and Ruby
 - 📫 How to reach me on 
-- instagram: @perrisvlogs
-- twitter: @PerrisVlogs
+- Instagram: @perrisvlogs
+- Twitter: @PerrisVlogs
 
 <!---
 shantelraya/shantelraya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
